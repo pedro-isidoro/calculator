@@ -19,4 +19,4 @@
  - Se utilizar da classe e organizar os métodos a partir dela e gerenciar os resultados com os valores padrão do Constructor
 
 ## Project
-<img src="src/image/simple-caculator.png" />
+<img src="src/image/simple-calculator.png" />

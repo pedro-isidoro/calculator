@@ -1,0 +1,15 @@
+:root{
+    /* --body-color: rgb(131, 142, 245); */
+    --body-color: rgb(109, 53, 1);
+    --main-color: rgb(115, 111, 114);
+    --caculator-panel-color: rgba(10, 16, 69, 0.774);
+
+    --link-color: ;
+    --paragraph-color: rgb(255, 255, 255);
+    --title-color: rgb(255, 255, 255);
+    --button-hover-color: rgb(61, 75, 199);
+    --border-color: black;
+    --border-hover-color: rgb(153, 153, 153);
+    --equal-button: #75a5cb;
+    --equal-button-hover: #1260a0;
+}
